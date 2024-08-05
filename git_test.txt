@@ -8,3 +8,7 @@ IoT
 EV
 These are cutting edge technologies.
 
+Machine Learning
+AI
+
+
